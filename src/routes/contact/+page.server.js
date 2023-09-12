@@ -19,7 +19,7 @@ export const actions = {
 				subject: subject,
 				text: body,
 				html: html,
-				replyTo: email,
+				replyTo: email
 			};
 
 			const sendEmail = async (message) => {

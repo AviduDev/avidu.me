@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<footer>
+<footer id="footer">
 	<a href="mailto:hi@avidu.me?subject=Someone from the site" class="email"> hi@avidu.me </a>
 	<div class="links">
 		<div class="social">

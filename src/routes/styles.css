@@ -9,12 +9,16 @@
 	padding: 0;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	background-color: #f4f3ef;
 }
 
 ::selection {
-	background-color: rgb(202, 202, 202);
+	background-color: #fdcd5a;
 }
 
 /* default styles */
@@ -33,14 +37,17 @@ img {
 	max-width: 100%;
 }
 
-p,
-a,
-li,
-span,
-div {
+
+a {
 	text-transform: capitalize;
 }
 
+ul,
+ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
 /* _____mobile */
 
 @media (min-width: 576px) {
@@ -70,4 +77,8 @@ button {
 
 a {
 	color: inherit;
+}
+
+.udl {
+	text-decoration: underline;
 }

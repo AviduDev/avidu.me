@@ -1,6 +1,6 @@
 <script>
-	export let BigTitle;
-	export let SmallTitle;
+	export let BigTitle = ''
+	export let SmallTitle = ''
 </script>
 
 <div class="titleContainer">
@@ -19,6 +19,10 @@
 	}
 	.big {
 		text-transform: uppercase;
+	}
+
+	.small {
+		text-transform: capitalize;
 	}
 	.titleContainer {
 		border-bottom: solid 1px black;

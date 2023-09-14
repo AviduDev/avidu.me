@@ -12,11 +12,19 @@ export const load = async ({ params }) => {
                 name
 				biggerDescription
 				description
+				consider
+				idealFor
 				image
 				slug
 				feature {
-				html
+					html
 				}
+				quotes {
+					content {
+					  html
+					}
+					name
+				  }
             }
         }`,
 		{

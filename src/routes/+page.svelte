@@ -38,10 +38,9 @@
 		<p>-ChatGPT</p>
 
 		<p class="lg-p">
-			Anyway, I can build websites that are <span class="udl">fast</span>,
-			<span class="udl">seo friendly</span>, and <span class="udl">looks unique</span>(i think so)
-			that cost only <span class="udl">$0</span>*. With these websites you can sell or present your
-			holy idea to your target audience.
+			Anyway, I can build websites that are fast, SEO friendly, and looks unique(I think so) that
+			cost only $0*. With these websites, you can sell or present your holy idea to your target
+			audience.
 		</p>
 	</div>
 
@@ -85,12 +84,14 @@
 
 		<SimpleList
 			title="cost effectiveness"
-			description="Websites I build based on modern aproaches like 'Jamstack'. Which purpose is to create fast and sercure sites, other than it provides ways to get started with 0 cost. So you can invest all into your business's success."
+			description="Websites I build based on modern approaches like 'Jamstack'. Its purpose is to create fast and secure sites, other than it provides ways to get started with 0 cost. So you can invest all into your business's success.
+			"
 		/>
 
 		<SimpleList
 			title="ease of change"
-			description="To change a text on your website - you don't have to go to the site and open a website builder. Instead we can use browser based dashboard to manage not just the text but all of your content in website."
+			description="To change a text on your website - you don't have to go to the site and open a website builder. Instead, we can use a browser-based dashboard to manage not just the text but all of your content on the website.
+			"
 		/>
 	</div>
 
@@ -98,9 +99,9 @@
 	<div class="process">
 		<Title BigTitle="the.d5" SmallTitle="the process" />
 		<p class="lg-p">
-			In website development unverse, all design processes have the same meanings(in most cases) but
-			with different names. Same as mine. The main purpose of this process is to get to know you and
-			your target audience better, and have a organized workflow.
+			In the website development universe, all design processes have the same meanings(in most
+			cases) but with different names. Same as mine. The main purpose of this process is to get to
+			know you and your target audience better and have an organized workflow.
 		</p>
 
 		<ProcessList
@@ -138,8 +139,10 @@
 	<div class="work">
 		<Title BigTitle="things i did" SmallTitle="work" />
 		<p class="lg-p">
-			Here's a list of website design, developlment, and other design related works has been done
-			for clients and myself. You can see more of my work by vising my <a href="#footer">social media pages</a>.
+			Here's a list of website design, development, and other design-related works that have been
+			done for clients and myself. You can see more of my work by visiting my <a
+				href="#footer">social media pages</a
+			>.
 		</p>
 	</div>
 	{#each projects as { name, year, type, liveUrl, image, publishedAt, slug }}

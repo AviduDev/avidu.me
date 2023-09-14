@@ -12,6 +12,14 @@ export const load = async ({ params }) => {
             project(where: {slug: $slug}) {
                 name
                 slug
+				description
+				image
+				liveUrl
+				technology
+				type
+				year
+				company
+				images
             }
         }`,
 		{

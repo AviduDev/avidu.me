@@ -42,11 +42,11 @@ a {
 	text-transform: capitalize;
 }
 
+li,
 ul,
 ol {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+	list-style: square;
+	padding: 0 0 0 1rem;
 }
 /* _____mobile */
 

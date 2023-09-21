@@ -11,12 +11,13 @@
 
 <div class="container">
 	<!-- hero -->
+
 	<div class="hero">
 		<h1>Better websites for your next big idea</h1>
-		<img
+		<!-- <img
 			src="https://res.cloudinary.com/avidu/image/upload/v1694105756/Avidu-me/Hero_GIF_ug3xmy.gif"
 			alt=""
-		/>
+		/> -->
 	</div>
 
 	<!-- introduction -->
@@ -48,7 +49,7 @@
 	<div>
 		<Title BigTitle="what you get" SmallTitle="services" />
 		<p class="lg-p">
-			There are few types of websites needs to be conseder before deciding, if it match with your
+			There are few types of websites needs to be consider before deciding, if it match with your
 			needs.
 		</p>
 
@@ -72,7 +73,7 @@
 			competition.
 			<br />
 			<br />
-			This is where custom deisign comes, each website I create based on your target audience not templates.
+			This is where custom design comes, each website I create based on your target audience not templates.
 			So that your customer gets more tailored experience and there are more and more chance to engage
 			with your brand.
 		</p>
@@ -137,11 +138,11 @@
 
 	<!-- work -->
 	<div class="work">
-		<Title BigTitle="things i did" SmallTitle="work" />
+		<Title BigTitle="things i did" SmallTitle="works" />
 		<p class="lg-p">
 			Here's a list of website design, development, and other design-related works that have been
-			done for clients and myself. You can see more of my work by visiting my <a
-				href="#footer">social media pages</a
+			done for clients and myself. You can see more of my work by visiting my <a href="#footer"
+				>social media pages</a
 			>.
 		</p>
 	</div>

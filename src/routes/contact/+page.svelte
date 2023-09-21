@@ -11,9 +11,9 @@
 	<h1>reach me</h1>
 	<p class="lg-p">
 		Transforming Ideas into Engaging Digital Experiences. Whether you're launching a new project or
-		revitalizing your online presence, we're here to turn your vision into a reality. Let us design
+		revitalizing your online presence, I'm here to turn your vision into a reality. Let me design
 		the perfect website that not only showcases your brand but also converts visitors into loyal
-		customers. Contact us today and let's bring your digital dreams to life.
+		customers. Contact me today and let's bring your digital dreams to life.
 	</p>
 
 	<Form />
